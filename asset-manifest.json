@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/diegomoreno576/Intro-react/static/css/main.4ff1fd0a.chunk.css",
+    "main.js": "/diegomoreno576/Intro-react/static/js/main.c76815ec.chunk.js",
+    "main.js.map": "/diegomoreno576/Intro-react/static/js/main.c76815ec.chunk.js.map",
+    "runtime-main.js": "/diegomoreno576/Intro-react/static/js/runtime-main.29a6a128.js",
+    "runtime-main.js.map": "/diegomoreno576/Intro-react/static/js/runtime-main.29a6a128.js.map",
+    "static/js/2.cde0e38d.chunk.js": "/diegomoreno576/Intro-react/static/js/2.cde0e38d.chunk.js",
+    "static/js/2.cde0e38d.chunk.js.map": "/diegomoreno576/Intro-react/static/js/2.cde0e38d.chunk.js.map",
+    "index.html": "/diegomoreno576/Intro-react/index.html",
+    "static/css/main.4ff1fd0a.chunk.css.map": "/diegomoreno576/Intro-react/static/css/main.4ff1fd0a.chunk.css.map",
+    "static/js/2.cde0e38d.chunk.js.LICENSE.txt": "/diegomoreno576/Intro-react/static/js/2.cde0e38d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29a6a128.js",
+    "static/js/2.cde0e38d.chunk.js",
+    "static/css/main.4ff1fd0a.chunk.css",
+    "static/js/main.c76815ec.chunk.js"
+  ]
+}
